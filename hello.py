@@ -3,4 +3,4 @@
 
 def hello(n):
     for i in range(n):
-        print("hello world sa uskličnikom!!!!!!!!")
+        print("hello world sa uskličnikom na kraju!!!!!!!!")
